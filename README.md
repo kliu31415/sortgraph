@@ -1,5 +1,5 @@
 # sortgraph
-benchmarks sorting algorithms on integer arrays
+benchmarks sorting algorithms on integer arrays  
 note that for small array sizes, the graph looks weird because the system timer is not accurate enough to record the time it takes to sort a small array.  
 x axis is array size, y axis is time in nanoseconds  
 
